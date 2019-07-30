@@ -1,0 +1,9 @@
+build
+dist
+
+
+*.kate-swp
+*.egg-info
+*.pyc
+*~
+.DS_Store
